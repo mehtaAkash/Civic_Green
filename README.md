@@ -1,6 +1,6 @@
 # Civic GreenNet
 
-Civic GreenNet is a modern, AI-powered civic issue management and smart city platform. It enables citizens to report infrastructure, safety, and environmental complaints, and provides municipal authorities with advanced tools to track, assign, verify, and resolve issues transparently in real-time.
+Civic GreenNet is a modern, AI-powered civic issue management and smart city platform. It enables citizens to report infrastructure, safety, and environmental complaints, and provides municipal authorities with tools to triage, assign, and resolve issues efficiently through AI-supported workflows.
 
 ## Features
 
@@ -18,8 +18,8 @@ Follow these steps to set up and run the Civic GreenNet project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Shashankesi/CIVIC_GREEN_NET.git
-cd CIVIC_GREEN_NET
+git clone https://github.com/mehtaAkash/Civic_Green.git
+cd Civic_Green
 ```
 
 ### 2. Configure Environment Files
@@ -80,4 +80,4 @@ Open both `.env` files and add your local configuration details (database creden
 
 ## Security & Verification
 
-This repository is secured against secret exposure. Real API keys, database connection strings, credentials, and environment files (`.env`, `.env.example`, etc.) are ignored by git and must be supplied locally.
+This repository is secured against secret exposure. Real API keys, database connection strings, credentials, and environment files (`.env`, `.env.example`, etc.) are ignored by git and must be managed locally and never committed.
